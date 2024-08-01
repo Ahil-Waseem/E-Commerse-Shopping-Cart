@@ -1,2 +1,2 @@
-# E-Commerse-Shopping-Cart (Sourse Codse)
+# E-Commerse-Shopping-Cart (Sourse Code)
 Only Sourse Code
